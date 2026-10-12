@@ -8,7 +8,8 @@ import java.util.List;
 @RequestMapping("/api/leaves")
 @CrossOrigin(origins = {
     "http://localhost:5173",
-    "http://localhost:5174"
+    "http://localhost:5174",
+    "https://YOUR-FRONTEND-NAME.onrender.com"
 })
 public class LeaveRequestController {
 

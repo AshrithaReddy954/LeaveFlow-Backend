@@ -9,7 +9,7 @@ import java.util.List;
 @CrossOrigin(origins = {
     "http://localhost:5173",
     "http://localhost:5174",
-    "https://YOUR-FRONTEND-NAME.onrender.com"
+    "https://leaveflow-frontend-4nhz.onrender.com"
 })
 public class LeaveRequestController {
 
